@@ -1,0 +1,13 @@
+td.aksi {
+    text-align: center;
+    vertical-align: middle;
+  }
+
+th.aksi {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.color-logout{
+ color: rgb(176, 21, 44); 
+}
